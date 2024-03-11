@@ -1,12 +1,12 @@
-* {
+*{
     margin: 0;
     padding: 0;
 } 
 
 
 .cabecalho {
-    background-color: #f37b5e;
-    color: white;
+   background-color: #D46059;
+    color: #AA405B;
     display: flex;
     justify-content: space-around;
     align-items: center;
