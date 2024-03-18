@@ -26,8 +26,12 @@
 background-color: #FDF7EE;
     color: #EFCD9F;
 }
+.luminarias-div-conteudo {
+    width: 35%;
+}
 
 .luminarias-titulo {
+    padding: 24px 0;
     background-color: #FDF7EE;
     color: #EFCD9F;
 }
