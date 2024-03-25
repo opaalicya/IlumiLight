@@ -23,8 +23,12 @@
     font-size: 24px;
 }
 .Luminarias-Decorativas {
-background-color: #FDF7EE;
+background-color: linear-gradient(#FDF7EE, #EABA5E);
     color: #EFCD9F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
 }
 .luminarias-div-conteudo {
     width: 35%;
@@ -36,7 +40,14 @@ background-color: #FDF7EE;
     color: #EFCD9F;
 }
 
+
 .luminarias-texto-um {
     background-color: #FDF7EE;
     color: #EFCD9F;
 }
+
+.luminarias-imagem {
+    background-color: #FDF7EE;
+    width: 18%;
+}
+
