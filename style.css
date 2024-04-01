@@ -48,6 +48,31 @@ background-color: linear-gradient(#FDF7EE, #EABA5E);
 
 .luminarias-imagem {
     background-color: #FDF7EE;
+    color: #EABA5E;
     width: 18%;
 }
 
+.estudante{
+    background-color: #FDF7EE;
+    color: #EFCD9F;
+}
+.estudante-titulo {
+    background-color: #FDF7EE;
+    color: #EFCD9F;
+}
+.estudante-icone {
+background-color: #FDF7EE;
+color: #EABA5E;
+width: 3%;
+}
+.estudante-imagem-1 {
+background-color: #FDF7EE;
+color: #EABA5E;
+width: 6%;
+}
+
+.estudante-imagem-2 {
+    background-color: #FDF7EE;
+    color: #EABA5E;
+    width: 7%;
+    }
