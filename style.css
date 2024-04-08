@@ -3,10 +3,14 @@
     padding: 0;
 } 
 
-
+.body {
+       font-family: "PT Sans Caption", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
 .cabecalho {
-   background-color: #FDF7EE;
-    color: #EFCD9F;
+   background-color: #f8ebd8;
+    color: #d6c0a2;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -23,8 +27,8 @@
     font-size: 24px;
 }
 .Luminarias-Decorativas {
-background-color: linear-gradient(#FDF7EE, #EABA5E);
-    color: #EFCD9F;
+    background-color: #f8ebd8;
+    color: #d6c0a2;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -36,43 +40,59 @@ background-color: linear-gradient(#FDF7EE, #EABA5E);
 
 .luminarias-titulo {
     padding: 24px 0;
-    background-color: #FDF7EE;
-    color: #EFCD9F;
+    background-color: #f8ebd8;
+    color: #d6c0a2;;
 }
 
 
 .luminarias-texto-um {
-    background-color: #FDF7EE;
-    color: #EFCD9F;
+    background-color: #f8ebd8;
+    color: #d6c0a2;;
 }
 
 .luminarias-imagem {
-    background-color: #FDF7EE;
-    color: #EABA5E;
+    background-color: #f8ebd8;
+    color: #d6c0a2;;
     width: 18%;
 }
 
 .estudante{
-    background-color: #FDF7EE;
-    color: #EFCD9F;
+    background-color: #f8ebd8;
+    color: #d6c0a2;;
 }
 .estudante-titulo {
-    background-color: #FDF7EE;
-    color: #EFCD9F;
+    background-color: #f8ebd8;
+    color: #d6c0a2;;
 }
 .estudante-icone {
-background-color: #FDF7EE;
-color: #EABA5E;
-width: 3%;
+    background-color: #f8ebd8;
+    color: #d6c0a2;
+ width: 17%;
 }
 .estudante-imagem-1 {
-background-color: #FDF7EE;
-color: #EABA5E;
-width: 6%;
+    background-color: #f8ebd8;
+    color: #d6c0a2;
+ width: 26%;
 }
 
 .estudante-imagem-2 {
-    background-color: #FDF7EE;
-    color: #EABA5E;
-    width: 7%;
+    background-color: #f8ebd8;
+    color: #d6c0a2;
+    width: 27%;
     }
+
+.estudante-todos {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.rodape{
+    background-color: black;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+    width: 4%;
+}
