@@ -9,8 +9,8 @@
         font-style: normal;
       }
 .cabecalho {
-   background-color: #f8ebd8;
-    color: #d6c0a2;
+   background-color: #E09145;
+    color: #17181d;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -27,8 +27,8 @@
     font-size: 24px;
 }
 .Luminarias-Decorativas {
-    background-color: #f8ebd8;
-    color: #d6c0a2;
+    background-color: #FCD9B8;
+    color: #17181d;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -40,45 +40,49 @@
 
 .luminarias-titulo {
     padding: 24px 0;
-    background-color: #f8ebd8;
-    color: #d6c0a2;;
+    background-color:#FCD9B8;
+    color: #17181d;
 }
 
-
 .luminarias-texto-um {
-    background-color: #f8ebd8;
-    color: #d6c0a2;;
+    background-color: #FCD9B8;
+    color: #17181d;
 }
 
 .luminarias-imagem {
-    background-color: #f8ebd8;
-    color: #d6c0a2;;
+    background-color: #FCD9B8;
+    color: #17181d;
     width: 18%;
 }
 
 .estudante{
-    background-color: #f8ebd8;
-    color: #d6c0a2;;
+    background-color: #FCD9B8;
+    color: #17181d;
 }
 .estudante-titulo {
-    background-color: #f8ebd8;
-    color: #d6c0a2;;
+    background-color: #FCD9B8;
+    color: #17181d;
 }
 .estudante-icone {
-    background-color: #f8ebd8;
-    color: #d6c0a2;
+    background-color: #FCD9B8;
+    color: #17181d;
  width: 17%;
 }
 .estudante-imagem-1 {
-    background-color: #f8ebd8;
-    color: #d6c0a2;
+    background-color: #FCD9B8;
+    color: #17181d;
  width: 26%;
 }
 
 .estudante-imagem-2 {
-    background-color: #f8ebd8;
-    color: #d6c0a2;
+    background-color: #FCD9B8;
+    color: #17181d;
     width: 27%;
+    }
+
+.estudante-div{
+        text-align: center;
+        padding: 16px 0;
     }
 
 .estudante-todos {
